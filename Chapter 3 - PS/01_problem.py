@@ -1,0 +1,4 @@
+# ASK USER FOR HIS/HER NAME AND PRINT ON THE SCREEN WITH GOOD AFTERNOON
+
+name = input("Enter Your Good Name:")
+print(f"GOOD AFTERNOON Mr. {name}")

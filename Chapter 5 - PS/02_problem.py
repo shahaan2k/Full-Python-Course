@@ -1,0 +1,20 @@
+# WRITE A PROGRAM TO INPUT 8 NUMBERS FROM USER AND PRINT THE UNIQUE ONES FROM THEM
+s = set()
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)                           # s.add adds the entered value into our empty set      
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)
+n = int(input("ENTER THE NUMBER:"))
+s.add(n)
+
+print(s) 

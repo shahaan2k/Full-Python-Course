@@ -1,0 +1,5 @@
+# WRITE A PROGRAM TO COUNT THE NUMBER OF ZEROS IN THE TUPLE
+
+a = (0, 0, 0, 5, 6, 7, 8)
+
+print(a.count(0)) 

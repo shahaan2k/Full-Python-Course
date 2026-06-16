@@ -1,0 +1,6 @@
+# WRITE A PROGRAM TO FIND AVERAGE OF TWO NUMBERS
+
+a =int(input("ENTER NUMBER FOR a:"))
+b =int(input("ENTER NUMBER FOR b:"))
+
+print("AVERAGE OF THE TWO NUMBERS IS:", (a+b)/2)
