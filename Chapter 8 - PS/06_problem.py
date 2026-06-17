@@ -1,6 +1,6 @@
 # WRITE A FUNCTION TO CONVERT USD INTO PKR
 
-n = int(input("ENTER AMOUNT OF RUPEES :"))
+n = int(input("ENTER AMOUNT OF USD :"))
 u = 278
 def convert(n):
     convert = n*u

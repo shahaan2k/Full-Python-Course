@@ -7,4 +7,4 @@ def calc_len(list):
     print(len(list))
 
 
-calc_len()    
+calc_len(cities)    
