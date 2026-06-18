@@ -3,5 +3,5 @@
 a =int(input("ENTER NUMBER:"))
 
 
-print("THE SQUARE OF THE NUMBER IS:", (a**2)) # OR (a*a) but only for square
+print("THE SQUARE OF THE NUMBER IS:", (a**a)) 
       

@@ -6,6 +6,6 @@ numRange = range(1 , num+1)
 for i in numRange:
 
     product = product * i
-    print(i, product)
+    print(product)
 print(f"THE FACTORIAL OF {num} IS {product}")  
 
